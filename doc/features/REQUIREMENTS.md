@@ -1,11 +1,12 @@
-# DESAFIO ANGULAR ITAU
+# DESCRIÇÃO DO PROJETO
 
-## DESCRIÇÃO DO PROJETO
 O candidato deve desenvolver uma aplicação simples de To-Do List usando Angular. A aplicação deve permitir que os usuários realizem as seguintes operações:
 
-1. ﻿﻿﻿Adicionar Tarefa: Campo de entrada para adicionar novas tarefas.
-2. ﻿﻿﻿Listar Tarefas: Exibir todas as tarefas em gima lista com as seguintes opções: Editar nome da tarefa. Excluir tarefa. Marcar como feito (com registro da data e hora da conclusão).
-3. ﻿﻿﻿Listar Tarefas Concluídas: Uma lista separada que mostra as tarefas concluídas com a data e hora da conclusão.
+﻿﻿﻿Adicionar Tarefa: Campo de entrada para adicionar novas tarefas.
+   
+﻿﻿﻿Listar Tarefas: Exibir todas as tarefas em gima lista com as seguintes opções: Editar nome da tarefa. Excluir tarefa. Marcar como feito (com registro da data e hora da conclusão).
+
+Listar Tarefas Concluídas: Uma lista separada que mostra as tarefas concluídas com a data e hora da conclusão.
 
 
 ## REQUISITOS
