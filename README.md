@@ -1,6 +1,6 @@
 # Desafio Angularjs Itau
 
-![Banner](./doc/img/banner.png)
+![Banner](./doc/images/banner.png)
 
 ## 💁‍♂️ Sobre o itau 
 
