@@ -76,9 +76,9 @@ A mensagem do email deve ser montada da seguinte forma:
 ## 📋 Requisitos
 
 ### Regras de Negocios
-- [] Cadastro de tarefa
-- [] Listagem de tarefa 
-- [] Tarefas concluídas
+- [ ] Cadastro de tarefas
+- [ ] Listagem de tarefas
+- [ ] Tarefas concluidas
 
 ### Obrigatório
 
