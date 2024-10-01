@@ -86,8 +86,7 @@ e para o Nivel deverão ser:
 ### Extras (Opcionais)
 1. Utilizar standalone components
 2. Utilizar signals.
-3. Fazer a página acessiva.
-4. Caso queira use json server para guardar valores
+4. [Json Server](https://www.npmjs.com/package/json-server) para guardar valores
 
 
 ## 🔨 Ferramento de desenvolvimento
