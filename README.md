@@ -70,9 +70,7 @@ e para o Nivel deverão ser:
 ## 📋 Requisitos
 
 ### Regras de Negocios
-- [ ] Cadastro de tarefas
-- [ ] Listagem de tarefas
-- [ ] Tarefas concluidas
+🔨 [Requisitos funcionais](./doc/features/REQUIREMENTS.md)
 
 ### Obrigatório
 
