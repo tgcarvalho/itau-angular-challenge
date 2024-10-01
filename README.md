@@ -51,9 +51,7 @@ npm start
 
 ## 🚀 Desafio frontend
 
-O objetivo do desafio é desenvolver um to do list. Você deverá seguir o modelo que esta na imagem abaixo e neste [link do figma](https://www.figma.com/file/dVWdCvHTi7k2wIvaOMUfF9/Desafio-Frontend-Itau?node-id=0%3A1).
-
-![Imagem base](./doc/img/desafio-base.png)
+O objetivo do desafio é desenvolver um to do list. 
 
 Os possiveis valores para a vaga são:
 
