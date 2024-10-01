@@ -10,7 +10,7 @@ Nossa marca é apontada pelo 16º ano consecutivo como a mais valiosa do país, 
 
 ## 📋 O que avaliaremos
 
-Iremos avaliar o seu conhecimento em html, css e js aplicados no framework Angularjs.
+Iremos avaliar o seu conhecimento com angular e typescript.
 
 ## 🔧 Configurando o ambiente
 
@@ -18,12 +18,10 @@ Siga esse passo a passo para iniciar seu projeto:
 
 **1. Dê um like e faça um fork do projeto**
 
-![fork e estrela](./doc/img/fork-star.png)
-
 **2. Faça o clone do projeto no seu computador**
 
 ```sh
-git clone "https://github.com/**seu-usuario**/itau-angular-test.git"
+git clone "https://github.com/**seu-usuario**/itau-angular-challenge.git"
 ```
 *no lugar do seu ˜\*\*seu-usuario\*\*˜ coloque o seu usario do github.
 
@@ -53,11 +51,11 @@ npm start
 
 ## 🚀 Desafio frontend
 
-O objetivo do desafio é desenvolver um formulario de email para entrevista de uma empresa, você deverá seguir o modelo que esta na imagem abaixo e neste [link do figma](https://www.figma.com/file/dVWdCvHTi7k2wIvaOMUfF9/Desafio-Frontend-Itau?node-id=0%3A1).
+O objetivo do desafio é desenvolver um to do list. Você deverá seguir o modelo que esta na imagem abaixo e neste [link do figma](https://www.figma.com/file/dVWdCvHTi7k2wIvaOMUfF9/Desafio-Frontend-Itau?node-id=0%3A1).
 
 ![Imagem base](./doc/img/desafio-base.png)
 
-No formulário os possiveis valores para a vaga são:
+Os possiveis valores para a vaga são:
 
 - Backend
 - Frontend
@@ -77,17 +75,26 @@ A mensagem do email deve ser montada da seguinte forma:
 
 ## 📋 Requisitos
 
+### Regras de Negocios
+[] Cadastro de tarefa
+[] Listagem de tarefa 
+[] Tarefas concluídas
+
 ### Obrigatório
 
-1. Escrever o código com Angularjs  ;)
+1. Escrever o código com [Angular 18](https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe)  ;)
 2. Validar campos obrigatórios!
 3. Defina uma estrutura do projeto.
+4. Gerenciamento de estado
+5. Fazer testes unitários.
+
 
 ### Extras (Opcionais)
+1. Utilizar standalone components
+2. Utilizar signals.
+3. Fazer a página acessiva.
+4. Caso queira use json server para guardar valores
 
-1. Fazer testes unitários.
-2. Utilizar algum extensão css.
-3. Fazer a página responsiva.
 
 ## 🔨 Ferramento de desenvolvimento
 
