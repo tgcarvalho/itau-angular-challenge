@@ -1,4 +1,4 @@
-# Desafio Angularjs Itau
+# Desafio Angular Itau
 
 ![Banner](./doc/images/banner.png)
 
@@ -66,12 +66,6 @@ e para o Nivel deverão ser:
 - Jr.
 - Pl.
 - Sn.
-
-Após você obter o resultado da resposta do formulário, você deverá enviar uma requisição para a api de disparo de email. Vá para a documentação da API através desse [link](https://github.com/jutape/email-sender).
-
-A mensagem do email deve ser montada da seguinte forma:
-
-> Olá, {Nome} {sobrenome} se candidatou para a vaga de {vaga} {nivel}.
 
 ## 📋 Requisitos
 
